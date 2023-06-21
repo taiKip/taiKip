@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 💬 Ask me about **react, spring boot, anything java**
+- 💬 Ask me about **react,typescript,sql, spring boot and anything java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
