@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taikip&label=Profile%20views&color=0e75b6&style=flat" alt="taikip" /> </p>
 
-- 🌱 I’m currently learning **aws lambda with java**
 
 - 💬 Ask me about **react,typescript,sql, spring boot and anything java**
 
